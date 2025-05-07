@@ -1,2 +1,6 @@
 This is qa file.
+<<<<<<< HEAD
 another changes
+=======
+this file if for qa team only
+>>>>>>> 63b0321fc0b64da2a8c2847620800f116ef9cc69
